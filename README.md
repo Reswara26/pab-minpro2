@@ -6,10 +6,6 @@ Kelas: C 2024
 
 NIM: 2409116100
 
-## Deskripsi Aplikasi
-
-Aplikasi mobile Flutter untuk mengelola data pesawat secara real-time dengan integrasi Supabase sebagai backend database. Dilengkapi autentikasi pengguna, tampilan modern hitam & kuning, serta fitur-fitur yang meningkatkan kenyamanan pengguna.
-
 ---
 
 ## 📱 Deskripsi Aplikasi
