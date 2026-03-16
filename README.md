@@ -28,7 +28,7 @@ NIM: 2409116100
 - 🌓 **Light Mode & Dark Mode** dengan toggle di AppBar (preferensi tersimpan)
 - 🔒 **File `.env`** untuk menyimpan Supabase URL dan API Key (tidak di-push ke GitHub)
 
-### Fitur Tambahan (Bonus UX)
+### Fitur Tambahan
 - 🔍 **Search & Filter** — Cari pesawat berdasarkan nama, maskapai, atau tipe engine
 - 📊 **Stats Banner** — Menampilkan total pesawat dan total maskapai unik secara dinamis
 - 💀 **Skeleton Loading** — Placeholder animasi saat data sedang dimuat dari Supabase
