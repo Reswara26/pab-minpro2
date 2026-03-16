@@ -127,7 +127,7 @@ WITH CHECK (auth.uid() = user_id);
    cd pab-minpro2
    ```
 
-2. **Buat file `.env`** di root proyek (jangan di-push ke GitHub!):
+2. **Buat file `.env`** di root proyek:
    ```
    SUPABASE_URL=https://xxxxxxxxxxxxxx.supabase.co
    SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.xxxxx
