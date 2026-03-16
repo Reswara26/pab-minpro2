@@ -24,6 +24,17 @@ Aplikasi mobile Flutter untuk mengelola data pesawat secara real-time dengan int
 - 🌓 **Light Mode & Dark Mode** dengan toggle di AppBar (preferensi tersimpan)
 - 🔒 **File `.env`** untuk menyimpan Supabase URL dan API Key (tidak di-push ke GitHub)
 
+### Fitur Tambahan
+
+🔍 Search & Filter — Cari pesawat berdasarkan nama, maskapai, atau tipe engine
+📊 Stats Banner — Menampilkan total pesawat dan total maskapai unik secara dinamis
+💀 Skeleton Loading — Placeholder animasi saat data sedang dimuat dari Supabase
+🎬 Animasi Transisi — Slide transition saat membuka halaman form
+✨ Fade Animation — Card pesawat muncul dengan animasi fade in
+🔄 Pull to Refresh — Tarik ke bawah untuk memperbarui daftar pesawat
+🃏 Card Detail Lengkap — Setiap card menampilkan semua informasi pesawat secara rapi
+📱 Collapsible AppBar — AppBar mengecil otomatis saat scroll
+
 ---
 
 ## 🗄️ Field Data Pesawat
