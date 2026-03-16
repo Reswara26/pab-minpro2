@@ -42,10 +42,10 @@ Setiap data pesawat memiliki **6 field input**:
 
 | Field | Kolom DB | Keterangan |
 |---|---|---|
-| Nama Pesawat | `nama` | Nama/seri pesawat (cth: Boeing 737-800) |
+| Nama Pesawat | `nama` | Nama/seri pesawat (cth: Airbus A350-1000) |
 | Maskapai | `maskapai` | Nama maskapai penerbangan |
 | Tahun Produksi | `tahun_produksi` | Tahun pesawat diproduksi |
-| Tipe Engine | `tipe_engine` | Tipe mesin pesawat (cth: CFM56-7B) |
+| Tipe Engine | `tipe_engine` | Tipe mesin pesawat (cth:  Rolls-Royce Trent XWB-97) |
 | Kapasitas Penumpang | `kapasitas_penumpang` | Jumlah kursi penumpang |
 | Max Range | `max_range` | Jarak tempuh maksimum dalam satuan miles |
 
